@@ -142,10 +142,7 @@ The Power BI dashboard provides interactive visualizations including:
 
 ## 📊 Power BI Dashboard
 
-Add your dashboard screenshot here:
-
-```md
-![Dashboard Preview](images/dashboard.png)
+![Power BI Dashboard](https://raw.githubusercontent.com/himanshu-parate/-customer-trends-data-analysis-with-SQL-Python-and-PowerBI/main/Dashboard.png)
 ```
 
 ---
@@ -234,23 +231,7 @@ Explore interactive business insights and dashboards.
 
 ---
 
-# 📸 Add Screenshots to GitHub README
 
-1. Create a folder named:
-
-```bash
-images
-```
-
-2. Add dashboard screenshots inside the folder.
-
-3. Use this syntax in README:
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
----
 
 # 🌟 Future Improvements
 
@@ -268,7 +249,7 @@ images
 
 **Himanshu Parate**
 
-* 💼 LinkedIn: 
+* 💼 LinkedIn: www.linkedin.com/in/paratehimanshu
 * 📂 GitHub: https://github.com/himanshu-parate
 * 📧 Email: hpparate19@gmail.com
 
